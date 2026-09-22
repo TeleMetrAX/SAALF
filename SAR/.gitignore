@@ -1,0 +1,8 @@
+# Generated outputs of main.py
+/results/
+
+# Local datasets - not included in this repository, see README.md for
+# where to obtain them and how to lay them out here. data/C-WDE/ is the one
+# exception (see below): it's our own derived output, not third-party data.
+/data/*
+!/data/C-WDE/
